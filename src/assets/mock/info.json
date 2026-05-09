@@ -1,0 +1,49 @@
+{
+  "ragioneSociale": "Studio Dentistico Mariani S.r.l.",
+  "nomeCommerciale": "Studio Dentistico Mariani",
+  "direttoreSanitario": "Dott. Paolo Mariani",
+  "tagline": "Il sorriso che meriti, in mani esperte",
+  "partitaIva": "IT04521870287",
+  "iscrizioneAlbo": "Iscritto all'Albo degli Odontoiatri CAO Padova n. 1842",
+  "direttiva": "Conforme Direttiva 93/42/CEE — Dispositivi medici classe IIa",
+  "indirizzo": {
+    "via": "Via Roma 12",
+    "citta": "Padova",
+    "provincia": "PD",
+    "cap": "35131",
+    "regione": "Veneto",
+    "paese": "Italia",
+    "lat": 45.4064,
+    "lng": 11.8768
+  },
+  "contatti": {
+    "telefono": "+39 049 876 5432",
+    "email": "info@studiomarianipadova.it",
+    "social": {
+      "instagram": "https://instagram.com/studiomarianipadova_demo",
+      "facebook": "https://facebook.com/studiomarianipadova_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "09:00 – 19:00",
+    "martedi": "09:00 – 19:00",
+    "mercoledi": "09:00 – 19:00",
+    "giovedi": "09:00 – 19:00",
+    "venerdi": "09:00 – 19:00",
+    "sabato": "09:00 – 13:00",
+    "domenica": "Chiuso"
+  },
+  "struttura": {
+    "accessibileDisabili": true,
+    "parcheggioConvenzionato": true,
+    "sedazioneConscia": true,
+    "urgenze24h": true,
+    "finanziamentoRateale": true,
+    "primaVisitaGratuita": true
+  },
+  "metaSeo": {
+    "title": "Studio Dentistico Mariani — Padova | Implantologia, Estetica, Ortodonzia",
+    "description": "Studio dentistico privato a Padova. Specializzati in implantologia, estetica dentale e ortodonzia invisibile. Prima visita gratuita. Dott. Paolo Mariani e team.",
+    "keywords": ["dentista padova", "studio dentistico padova", "implantologia padova", "ortodonzia invisibile padova", "sbiancamento denti padova"]
+  }
+}

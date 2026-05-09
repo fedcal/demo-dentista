@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "La prima visita è davvero gratuita?",
+      "risposta": "Sì, la prima visita è completamente gratuita e senza impegno. Include esame clinico completo, ortopantomografia digitale (se necessaria) e piano di trattamento personalizzato con preventivo trasparente. Basta prenotare tramite il form o telefonare al nostro numero."
+    },
+    {
+      "domanda": "Offrite la sedazione per i pazienti ansiosi?",
+      "risposta": "Assolutamente sì. Disponiamo di sedazione cosciente con protossido d'azoto (gas esilarante), che riduce l'ansia mantenendo il paziente sveglio e collaborante. Il paziente torna alla normale attività in 5 minuti dal termine. Per i casi più complessi, valutiamo la sedazione profonda in collaborazione con anestesista."
+    },
+    {
+      "domanda": "Come affrontate i pazienti con fobia del dentista?",
+      "risposta": "Il nostro approccio è 'tell-show-do': spieghiamo ogni step prima di eseguirlo. Utilizziamo anestesia computerizzata STA (praticamente indolore), sedazione cosciente su richiesta, e fissiamo appuntamenti in orari tranquilli. Molti pazienti ci ringraziano dopo anni di rimandi per paura."
+    },
+    {
+      "domanda": "Quanto dura la garanzia sugli impianti?",
+      "risposta": "Garantiamo strutturalmente gli impianti dentali per 10 anni dalla data di inserimento. La garanzia copre difetti dell'impianto e del restauro protesico. È richiesto il mantenimento con igiene professionale semestrale presso il nostro studio. Utilizziamo esclusivamente impianti Straumann® e Nobel Biocare® con certificazione CE."
+    },
+    {
+      "domanda": "Posso pagare a rate?",
+      "risposta": "Sì, offriamo finanziamento rateale a tasso zero fino a 12 mesi e a tasso agevolato fino a 60 mesi per trattamenti superiori a €500. Collaboriamo con Agos Ducato e Findomestic. Il piano rateale viene concordato prima dell'inizio del trattamento con preventivo firmato."
+    },
+    {
+      "domanda": "Gestite le urgenze dentali?",
+      "risposta": "Sì. Durante gli orari di apertura (Lun-Ven 9-19, Sab 9-13) riserviamo slot per urgenze. Per il fuori orario, il Dott. Mariani è raggiungibile su WhatsApp per valutare il caso: in situazioni acute (ascesso, trauma, dolore acuto) indica il pronto soccorso odontoiatrico più vicino o gestisce il caso il prima mattina successiva."
+    },
+    {
+      "domanda": "I materiali usati sono conformi alle normative europee?",
+      "risposta": "Tutti i dispositivi medici impiantabili e i materiali da restauro utilizzati sono conformi alla Direttiva 93/42/CEE e al Regolamento EU MDR 2017/745. Impianti Straumann® e Nobel Biocare® classe IIb, materiali ceramici certificati CE. A richiesta forniamo la documentazione tecnica di ogni materiale impiantato."
+    },
+    {
+      "domanda": "Ho allergie ai metalli. Posso fare impianti?",
+      "risposta": "Il titanio di grado biomedico (grado 4 ASTM F67) utilizzato per gli impianti è ipoallergenico ed è raramente causa di reazioni. Per i pazienti con ipersensibilità accertata al nichel o ad altri metalli, valutiamo impianti in zirconio ceramico puro (ZrO2), completamente metal-free. Test allergologico preventivo disponibile su richiesta."
+    }
+  ]
+}

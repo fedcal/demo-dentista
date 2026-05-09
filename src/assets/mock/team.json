@@ -1,0 +1,64 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dott. Paolo Mariani",
+      "ruolo": "Direttore Sanitario — Implantologia ed Estetica",
+      "bio": "Fondatore dello studio nel 1997, Dott. Mariani è specializzato in implantologia avanzata e odontoiatria estetica. Ha seguito oltre 2.000 interventi implantari con un tasso di successo del 98,7%. Relatore in congressi nazionali ANDI e SIO.",
+      "anniEsperienza": 28,
+      "iscrizione": "Albo CAO Padova n. 1842",
+      "image": "/assets/img/team/mariani.jpg",
+      "specializzazioni": ["Implantologia osteointegrata", "Odontoiatria estetica", "Chirurgia orale"],
+      "formazione": [
+        "Laurea in Odontoiatria e Protesi Dentaria, Università di Padova",
+        "Master in Implantologia Avanzata, Università di Bologna",
+        "Fellow ITI — International Team for Implantology"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Dott.ssa Laura Bianchi",
+      "ruolo": "Ortodonzista — Certificazione Invisalign Diamond",
+      "bio": "Specializzata in ortodonzia fissa e mobile, Dott.ssa Bianchi è certificata Invisalign a livello Diamond (top 1% provider in Italia). Ha trattato oltre 600 casi con allineatori invisibili in adulti e adolescenti.",
+      "anniEsperienza": 14,
+      "iscrizione": "Albo CAO Padova n. 2374",
+      "image": "/assets/img/team/bianchi.jpg",
+      "specializzazioni": ["Ortodonzia invisibile Invisalign", "Ortodonzia fissa estetica", "Gnatologia"],
+      "formazione": [
+        "Laurea in Odontoiatria, Università di Verona",
+        "Specializzazione in Ortodonzia, Università di Padova",
+        "Certificazione Invisalign Diamond Provider 2023"
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Dott. Marco Verdi",
+      "ruolo": "Endodontista — Microscopio Operatorio",
+      "bio": "Esperto in endodonzia avanzata con microscopio operatorio, Dott. Verdi salva denti che altri valutano non recuperabili. Trattamenti su canali calcificati, ritrattamenti e chirurgia apicale con tecnica miniinvasiva.",
+      "anniEsperienza": 19,
+      "iscrizione": "Albo CAO Padova n. 2011",
+      "image": "/assets/img/team/verdi.jpg",
+      "specializzazioni": ["Endodonzia con microscopio", "Ritrattamenti canalari", "Chirurgia apicale"],
+      "formazione": [
+        "Laurea in Odontoiatria, Università di Padova",
+        "Master in Endodonzia Avanzata, Eastman Dental Institute Londra",
+        "Membro ESE — European Society of Endodontology"
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Dott.ssa Anna Conti",
+      "ruolo": "Igienista Dentale RDH — Prevenzione",
+      "bio": "Igienista dentale con diploma RDH (Registered Dental Hygienist) e specializzazione in parodontologia di supporto. Gestisce i protocolli di igiene professionale e il programma di prevenzione per i pazienti dello studio.",
+      "anniEsperienza": 11,
+      "iscrizione": "Albo TSRM-PSTRP Padova n. 887",
+      "image": "/assets/img/team/conti.jpg",
+      "specializzazioni": ["Igiene professionale", "Parodontologia di supporto", "Educazione alla salute orale"],
+      "formazione": [
+        "Diploma di Igienista Dentale, Università di Padova",
+        "Master in Parodontologia, Università di Milano",
+        "Certificazione RDH — Registered Dental Hygienist"
+      ]
+    }
+  ]
+}

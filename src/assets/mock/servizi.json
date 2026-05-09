@@ -1,0 +1,190 @@
+{
+  "categorie": [
+    { "id": "igiene", "nome": "Igiene e Prevenzione", "ordine": 1 },
+    { "id": "conservativa", "nome": "Conservativa", "ordine": 2 },
+    { "id": "endodonzia", "nome": "Endodonzia", "ordine": 3 },
+    { "id": "protesica", "nome": "Protesica", "ordine": 4 },
+    { "id": "implantologia", "nome": "Implantologia", "ordine": 5 },
+    { "id": "ortodonzia", "nome": "Ortodonzia", "ordine": 6 },
+    { "id": "estetica", "nome": "Estetica Dentale", "ordine": 7 },
+    { "id": "chirurgia", "nome": "Chirurgia Orale", "ordine": 8 }
+  ],
+  "servizi": [
+    {
+      "id": 1,
+      "categoria": "igiene",
+      "nome": "Igiene Professionale",
+      "descrizione": "Pulizia professionale con ultrasuoni e lucidatura. Rimozione tartaro sopra e sottogengivale, fluoroprofilassi, istruzioni igiene domiciliare personalizzate.",
+      "prezzoMin": 85,
+      "prezzoMax": 85,
+      "durataSeduta": "60 min",
+      "frequenzaConsigliata": "Ogni 6 mesi",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "categoria": "igiene",
+      "nome": "Prima Visita + Panoramica",
+      "descrizione": "Visita completa con esame clinico, ortopantomografia digitale e piano di trattamento personalizzato. Completamente gratuita.",
+      "prezzoMin": 0,
+      "prezzoMax": 0,
+      "durataSeduta": "45 min",
+      "frequenzaConsigliata": "Una volta",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "categoria": "conservativa",
+      "nome": "Otturazione in Composito",
+      "descrizione": "Restauro estetico in resina composita fotograficamente abbinata al colore naturale del dente. Tecnica adesiva miniinvasiva.",
+      "prezzoMin": 80,
+      "prezzoMax": 150,
+      "durataSeduta": "45–60 min",
+      "frequenzaConsigliata": "Quando necessario",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "categoria": "conservativa",
+      "nome": "Sigillatura Fessure",
+      "descrizione": "Protezione preventiva dei solchi occlusali per bambini e adulti giovani. Riduce il rischio di carie del 70%.",
+      "prezzoMin": 30,
+      "prezzoMax": 50,
+      "durataSeduta": "30 min",
+      "frequenzaConsigliata": "Una volta (bambini 6-14 anni)",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "categoria": "endodonzia",
+      "nome": "Devitalizzazione (Trattamento Canalare)",
+      "descrizione": "Rimozione della polpa infetta, sagomatura e otturazione tridimensionale dei canali radicolari con tecnica rotante Ni-Ti sotto microscopio operatorio.",
+      "prezzoMin": 250,
+      "prezzoMax": 450,
+      "durataSeduta": "60–120 min",
+      "frequenzaConsigliata": "Quando necessario",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "categoria": "endodonzia",
+      "nome": "Ritrattamento Canalare",
+      "descrizione": "Revisione di devitalizzazioni precedenti non efficaci. Tecnica con microscopio operatorio per recuperare denti già trattati.",
+      "prezzoMin": 350,
+      "prezzoMax": 600,
+      "durataSeduta": "90–150 min",
+      "frequenzaConsigliata": "Quando necessario",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "categoria": "protesica",
+      "nome": "Corona in Zirconio",
+      "descrizione": "Restauro fisso in zirconio monolitico o stratificato. Estetica superiore, biocompatibilità totale, nessuna linea metallica gengivale. Garanzia 5 anni.",
+      "prezzoMin": 600,
+      "prezzoMax": 900,
+      "durataSeduta": "2 sedute da 60 min",
+      "frequenzaConsigliata": "Quando necessario",
+      "featured": true
+    },
+    {
+      "id": 8,
+      "categoria": "protesica",
+      "nome": "Protesi Mobile su Impianti (All-on-4)",
+      "descrizione": "Riabilitazione completa dell'arcata su 4 impianti. Soluzione fissa e definitiva per edentulie totali. Carico immediato in 48h.",
+      "prezzoMin": 9500,
+      "prezzoMax": 14000,
+      "durataSeduta": "Piano terapeutico 3-6 mesi",
+      "frequenzaConsigliata": "Una volta",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "categoria": "implantologia",
+      "nome": "Impianto Singolo + Corona",
+      "descrizione": "Inserimento di impianto in titanio di grado biomedico (Straumann® o Nobel Biocare®) + corona definitiva in zirconio. Garanzia strutturale 10 anni.",
+      "prezzoMin": 1500,
+      "prezzoMax": 2200,
+      "durataSeduta": "Piano 3-6 mesi (2-3 appuntamenti)",
+      "frequenzaConsigliata": "Una volta",
+      "featured": true
+    },
+    {
+      "id": 10,
+      "categoria": "implantologia",
+      "nome": "Rigenerazione Ossea Guidata (GBR)",
+      "descrizione": "Procedura di aumento osseo prima o durante il posizionamento implantare. Utilizzo di membrana riassorbibile e biomateriali di ultima generazione.",
+      "prezzoMin": 600,
+      "prezzoMax": 1200,
+      "durataSeduta": "90 min",
+      "frequenzaConsigliata": "Quando necessario",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "categoria": "ortodonzia",
+      "nome": "Allineatori Invisibili (Invisalign)",
+      "descrizione": "Sistema di allineatori rimovibili trasparenti su misura. Trattamento quasi invisibile, removibile per mangiare e lavarsi i denti. Provider Invisalign Diamond.",
+      "prezzoMin": 2500,
+      "prezzoMax": 4500,
+      "durataSeduta": "Controlli mensili",
+      "frequenzaConsigliata": "12–18 mesi",
+      "featured": true
+    },
+    {
+      "id": 12,
+      "categoria": "ortodonzia",
+      "nome": "Apparecchio Fisso Estetico",
+      "descrizione": "Brackets in ceramica o zaffiro quasi invisibili. Indicato per malocclusioni moderate e severe dove la precisione è prioritaria.",
+      "prezzoMin": 2000,
+      "prezzoMax": 3500,
+      "durataSeduta": "Controlli ogni 4-6 settimane",
+      "frequenzaConsigliata": "18–24 mesi",
+      "featured": false
+    },
+    {
+      "id": 13,
+      "categoria": "estetica",
+      "nome": "Sbiancamento Professionale",
+      "descrizione": "Sbiancamento in studio con gel a base di perossido di idrogeno + kit domiciliare personalizzato. Fino a 8 gradazioni di luminosità. Nessun danno allo smalto.",
+      "prezzoMin": 280,
+      "prezzoMax": 280,
+      "durataSeduta": "90 min",
+      "frequenzaConsigliata": "1-2 volte all'anno",
+      "featured": true
+    },
+    {
+      "id": 14,
+      "categoria": "estetica",
+      "nome": "Faccette in Ceramica",
+      "descrizione": "Sottile guscio di porcellana incollato sulla superficie del dente. Corregge colore, forma e allineamento in 2 sedute. Risultato naturale e duraturo.",
+      "prezzoMin": 450,
+      "prezzoMax": 700,
+      "durataSeduta": "2 sedute da 90 min",
+      "frequenzaConsigliata": "Quando necessario",
+      "featured": false
+    },
+    {
+      "id": 15,
+      "categoria": "chirurgia",
+      "nome": "Estrazione Dente del Giudizio",
+      "descrizione": "Avulsione chirurgica di terzi molari inclusi o semi-inclusi in anestesia locale o sedazione cosciente. Tecnica atraumatica con piezosurgery.",
+      "prezzoMin": 150,
+      "prezzoMax": 350,
+      "durataSeduta": "45–90 min",
+      "frequenzaConsigliata": "Quando necessario",
+      "featured": false
+    },
+    {
+      "id": 16,
+      "categoria": "chirurgia",
+      "nome": "Chirurgia Apicale (Apicectomia)",
+      "descrizione": "Rimozione dell'apice radicolare infetto e sigillatura con materiale biocompatibile. Alternativa conservativa alla estrazione.",
+      "prezzoMin": 400,
+      "prezzoMax": 700,
+      "durataSeduta": "90 min",
+      "frequenzaConsigliata": "Quando necessario",
+      "featured": false
+    }
+  ]
+}

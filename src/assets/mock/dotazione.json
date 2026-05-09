@@ -1,0 +1,68 @@
+{
+  "tecnologie": [
+    {
+      "id": 1,
+      "nome": "Radiografia Panoramica Digitale",
+      "categoria": "Diagnostica",
+      "descrizione": "Ortopantomografo Planmeca ProMax 3D: immagini panoramiche e CBCT cone-beam con dosimetria ridotta fino al 70% rispetto all'analogico. Refertazione immediata in studio.",
+      "vantaggi": ["Dose radiazioni minima", "Immagine 3D volumetrica", "Refertazione immediata"],
+      "emoji": "🔬"
+    },
+    {
+      "id": 2,
+      "nome": "Scanner Intraorale 3Shape TRIOS 4",
+      "categoria": "Diagnostica",
+      "descrizione": "Impronta digitale senza silicone. Scansione dell'arcata completa in 2 minuti. Invio digitale diretto al laboratorio per protesi, allineatori e modelli studio.",
+      "vantaggi": ["Addio alle impronte in silicone", "Precisione 5 micron", "Visualizzazione real-time"],
+      "emoji": "📡"
+    },
+    {
+      "id": 3,
+      "nome": "Microscopio Operatorio Leica M320",
+      "categoria": "Endodonzia",
+      "descrizione": "Ingrandimento fino a 25x per trattamenti endodontici di alta precisione. Indispensabile per canali calcificati, strumenti fratturati e chirurgia apicale.",
+      "vantaggi": ["Visione ×25 magnificazione", "Illuminazione LED coassiale", "Documentazione video HD"],
+      "emoji": "🔭"
+    },
+    {
+      "id": 4,
+      "nome": "Laser Dentale Er:YAG",
+      "categoria": "Chirurgia e Parodontologia",
+      "descrizione": "Laser erbio per trattamenti gengivali, decontaminazione implantare e rimozione del tartaro sottogengivale. Cicatrizzazione accelerata e riduzione del dolore post-operatorio.",
+      "vantaggi": ["Chirurgia senza bisturi", "Cicatrizzazione rapida", "Minimo dolore post-op"],
+      "emoji": "⚡"
+    },
+    {
+      "id": 5,
+      "nome": "Anestesia Computerizzata STA",
+      "categoria": "Comfort Paziente",
+      "descrizione": "Sistema Single Tooth Anesthesia: iniezione computerizzata a velocità e pressione controllata. Dolore praticamente azzerato rispetto alla siringa tradizionale. Ideale per pazienti ansiosi.",
+      "vantaggi": ["Iniezione quasi indolore", "Velocità controllata dal computer", "Ideale per pazienti ansiosi"],
+      "emoji": "💉"
+    },
+    {
+      "id": 6,
+      "nome": "Piezosurgery — Chirurgia Ultrasonica",
+      "categoria": "Chirurgia",
+      "descrizione": "Dispositivo Mectron Piezosurgery: osteotomia selettiva ultrasonora che preserva nervi, vasi e tessuti molli. Ideale per estrazioni atraumatiche e chirurgia implantare.",
+      "vantaggi": ["Preserva nervi e vasi", "Guarigione accelerata", "Meno gonfiore post-operatorio"],
+      "emoji": "🎯"
+    },
+    {
+      "id": 7,
+      "nome": "Sedazione Cosciente con Protossido",
+      "categoria": "Comfort Paziente",
+      "descrizione": "Sedazione inalatoria con miscela ossido nitroso/ossigeno per pazienti ansiosi o fobici. Il paziente rimane sveglio e collaborante ma rilassato. Effetto reversibile in 5 minuti.",
+      "vantaggi": ["Ansia azzerata", "Paziente cosciente e collaborante", "Nessuna controindicazione generale"],
+      "emoji": "😌"
+    },
+    {
+      "id": 8,
+      "nome": "CAD/CAM Cerec per Protesi in Studio",
+      "categoria": "Protesica",
+      "descrizione": "Sistema di progettazione e fresatura in studio di corone, inlay e faccette in zirconio o ceramica. In certi casi corona definitiva in una sola seduta.",
+      "vantaggi": ["Corona in 1 seduta", "Ceramica biocompatibile", "Nessuna protesi provvisoria"],
+      "emoji": "🏭"
+    }
+  ]
+}
