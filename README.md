@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Studio Dentistico** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://dentista.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-dentista/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-dentista/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-dentista.git
-cd federico-demo-dentista
+git clone https://github.com/fedcal/demo-dentista.git
+cd demo-dentista
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:dentista
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-dentista/
+→ https://fedcal.github.io/demo-dentista/
 
 ## Hub demos Federico
 
